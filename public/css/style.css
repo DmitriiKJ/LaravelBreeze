@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex-grow: 1;
+}
+
+#footer_id {
+    background-color: #343a40;
+    color: white;
+}
+
+#footer_id a {
+    color: white;
+}
+
+footer {
+    padding: 20px 0;
+    background-color: #343a40;
+    color: white;
+}
+
+footer p {
+    margin: 0;
+}
